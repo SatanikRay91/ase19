@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47746bf8-6e16-4fc3-867b-65dd3a91c08a" name="Default Changelist" comment="Updated HW">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/hw.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Abcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Col.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/My.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Nb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Num.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Row.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Sym.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/SymTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/Tbl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/TestAbcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/TestNb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/TestNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/TestTbl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/TestZeroR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/ZeroR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/diabetes.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4/weathernon.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1/out.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/2/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/out.abcd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3/out.abcd.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/out.tbl.txt" beforeDir="false" afterPath="$PROJECT_DIR$/3/out.tbl.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4/.idea/4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +20,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/4" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -75,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569022429537</updated>
-      <workItem from="1569022430977" duration="183000" />
+      <workItem from="1569022430977" duration="490000" />
     </task>
     <servers />
   </component>
